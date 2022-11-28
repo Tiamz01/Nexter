@@ -1,0 +1,23 @@
+{
+  "name": "nextier",
+  "version": "1.0.0",
+  "description": "An extra ordinary realtor and real estate site",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass -w sass:asset/css"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "css_grid"
+  ],
+  "author": "Ismail Tiamiyu alias Tiamz",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss-cli": "^9.1.0"
+  }
+}
